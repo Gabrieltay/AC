@@ -1,0 +1,8 @@
+﻿26th Oct 2015 
+- Confirmation of Code editing
+- Added MenuStrip
+- Import/Export data from/to CSV
+- Display Total Records & Balance 
+- ChangeLog display
+- SaveAs Option
+- Date Filtering

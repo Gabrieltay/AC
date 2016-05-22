@@ -1,0 +1,17 @@
+﻿Main form:
+- Prompt save before switching/closing
+- Undo function
+
+Filter form:
+- 
+
+Code Maintenance:
+- Undo function
+
+Company:
+
+
+Record:
+
+
+Template Reporting:
